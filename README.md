@@ -76,3 +76,7 @@ tests/              pytest suite
 | `OLLAMA_MODEL` | `mistral:latest`       |
 | `OLLAMA_HOST`  | `http://localhost:11434` |
 | `DB_PATH`      | `<project>/data/excel_reader.db` |
+
+## Video 
+https://youtu.be/dwuqpKP8L8E
+
